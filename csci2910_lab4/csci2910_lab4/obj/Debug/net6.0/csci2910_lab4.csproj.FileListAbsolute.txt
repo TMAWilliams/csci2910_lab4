@@ -1,0 +1,15 @@
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.csproj.AssemblyReference.cache
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.AssemblyInfoInputs.cache
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.AssemblyInfo.cs
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.csproj.CoreCompileInputs.cache
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\bin\Debug\net6.0\csci2910_lab4.exe
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\bin\Debug\net6.0\csci2910_lab4.deps.json
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\bin\Debug\net6.0\csci2910_lab4.runtimeconfig.json
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\bin\Debug\net6.0\csci2910_lab4.dll
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\bin\Debug\net6.0\csci2910_lab4.pdb
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.dll
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\refint\csci2910_lab4.dll
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.pdb
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\csci2910_lab4.genruntimeconfig.cache
+C:\Users\tmawi\source\repos\csci2910_lab4\csci2910_lab4\csci2910_lab4\obj\Debug\net6.0\ref\csci2910_lab4.dll
