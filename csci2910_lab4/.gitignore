@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,csharp
-# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,csharp
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,csharp
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudio,visualstudiocode,csharp
 
 ### Csharp ###
 ## Ignore Visual Studio temporary files, build results, and
@@ -399,6 +399,19 @@ FodyWeavers.xsd
 # JetBrains Rider
 *.sln.iml
 
+### VisualStudioCode ###
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
 ### VisualStudio ###
 
 # User-specific files
@@ -580,4 +593,4 @@ FodyWeavers.xsd
 ### VisualStudio Patch ###
 # Additional files built by Visual Studio
 
-# End of https://www.toptal.com/developers/gitignore/api/visualstudio,csharp
+# End of https://www.toptal.com/developers/gitignore/api/visualstudio,visualstudiocode,csharp
