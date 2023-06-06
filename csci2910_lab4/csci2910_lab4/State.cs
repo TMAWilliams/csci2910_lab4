@@ -18,5 +18,25 @@ namespace csci2910_lab4
 {
     public class State
     {
+        //Fields
+        private string _abbreviation;
+        private string _fullName;
+
+        //Properties
+        public string Abbreviation { get; init; }
+        public string FullName { get; init; }
+
+        //Constructor
+        public State(string abbreviation, string fullname)
+        {
+            Abbreviation = abbreviation;
+            FullName = fullname;
+        }
+
+        //Method
+        public override string ToString()
+        {
+            return $"{FullName} - {Abbreviation}";
+        }
     }
 }

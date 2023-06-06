@@ -14,7 +14,7 @@ namespace csci2910_lab4
     {
         static void Main()
         {
-            
+          
         }
     }
 }

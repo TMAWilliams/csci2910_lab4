@@ -46,6 +46,7 @@ namespace csci2910_lab4
             Phone = phone;
         }
 
+        //Method
         public override string ToString()
         {
             string msg = $"{FirstName}|{LastName}|{Address}|{Phone}";
