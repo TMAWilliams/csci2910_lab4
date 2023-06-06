@@ -18,6 +18,38 @@ namespace csci2910_lab4
 {
     public class Person
     {
+        //Fields
+        private string _firstName;
+        private string _lastName;
+        private Address _address;
+        private Phone _phone;
 
+        //Properties
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
+        public Address Address { get; set; }
+        public Phone Phone { get; set; }
+
+        //Constructors
+        /// <summary>
+        /// Parameterized constructor that generates a person based on passed in arguments
+        /// </summary>
+        /// <param name="firstName">string - first name of person</param>
+        /// <param name="lastName">string - last name of person</param>
+        /// <param name="address">Address - an object containing the person's address information</param>
+        /// <param name="phone">Phone - an object containing the person's phone information</param>
+        public Person(string firstName, string lastName, Address address, Phone phone)
+        {
+            FirstName = firstName;
+            LastName = lastName;
+            Address = address;
+            Phone = phone;
+        }
+
+        public override string ToString()
+        {
+            string msg = $"{FirstName}|{LastName}|{Address}|{Phone}";
+            return msg;
+        }
     }
 }
