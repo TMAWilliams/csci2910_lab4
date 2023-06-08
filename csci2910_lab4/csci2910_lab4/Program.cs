@@ -66,6 +66,7 @@ namespace csci2910_lab4
                     writer.WriteLine(person.ToString());
                 }
             }
+            Console.WriteLine("CSV file successfully converted to PSV file.");
         }
     }
 }

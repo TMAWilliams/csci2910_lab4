@@ -45,7 +45,7 @@ namespace csci2910_lab4
         //Method
         public override string ToString()
         {
-            return $"{Number} {Street} , {City} , {State.Abbreviation} {Zipcode}";
+            return $"{Number} {Street}, {City}, {State.Abbreviation} {Zipcode}";
         }
     }
 }
