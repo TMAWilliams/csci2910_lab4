@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "4nxjSal3F6OBHda73zhnDXbU8v9yKDXxlRfYsc6SiN5qXrjWun3wtQYSAhyu7QVN6djjd5CBNdMxwU1CJ70p3w==",
+  "dgSpecHash": "3APQ9/jAdinXLW8Ai/EXp8LLgiZUHBKRVG+cwAA0SCuFT6hYAnAwrimLvCGv4cCUI1qxFvf6Ur1iF+ejucbZXQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\tmawi\\source\\repos\\csci2910_lab4\\csci2910_lab4\\csci2910_lab4\\csci2910_lab4.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\tmawi\\.nuget\\packages\\microsoft.data.sqlite\\7.0.5\\microsoft.data.sqlite.7.0.5.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\tmawi\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
   "logs": []
 }
